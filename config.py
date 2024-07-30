@@ -8,8 +8,8 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
     # database config
-    DB_NAME = os.environ.get("DB_NAME","MAINTENANCE")     
-    DB_URL  = os.environ.get("DB_URL","mongodb+srv://MAINTENANCE:MAINTENANCE@cluster0.aepgjio.mongodb.net/")
+    DB_NAME = os.environ.get("DB_NAME","Leachv3")     
+    DB_URL  = os.environ.get("DB_URL","mongodb+srv://Leachv3:Leachv3@cluster0.rasbnes.mongodb.net/")
  
     # other configs
     BOT_UPTIME  = time.time()
