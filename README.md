@@ -1,7 +1,7 @@
 <img src="https://telegra.ph/file/a25b856c6c96d4aa0d75b.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/autorenamexbot" target="/blank"> Auto Rename Bot </a></>
+ <b><a href="http://t.me/AC_AUTO_RENAME_BOT" target="/blank"> Auto Rename Bot </a></>
 </h1>
 
 <p align="center">🩵 Thanks for Being Here 🩵</p>
