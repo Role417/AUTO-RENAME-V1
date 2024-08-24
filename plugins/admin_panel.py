@@ -97,9 +97,3 @@ async def send_msg(user_id, message):
         return 500
 
 
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
