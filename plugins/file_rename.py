@@ -286,9 +286,3 @@ async def auto_rename_files(client, message):
         del renaming_operations[file_id]
 
 
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
